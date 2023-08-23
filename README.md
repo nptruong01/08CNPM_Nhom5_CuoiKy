@@ -1,4 +1,4 @@
-# ChatApp_Flutter_Socket
+# ChatApp_Flutter_Socket.
 
 This is a Flutter chat application that utilizes Socket.IO for real-time communication.
 
